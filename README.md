@@ -2,7 +2,7 @@
 Visualize activation maps to understand which image regions activate CNN filters for the age detection.
 ## To Run this Model:
 1. Clone this Repository
-2. Run the [Gui.py]
+2. Run the [Gui.py] https://github.com/Gaganesh61092/Visualization-activation-maps/blob/main/gui.py
 3. upload the the Image that you want to detect
 4. Click on Detect button
 5. View the Results
@@ -14,7 +14,7 @@ Visualize activation maps to understand which image regions activate CNN filters
 3. Extract the Dataset to your repository folder
 4. Open the [Model Jupyter Notebook]
 5. Run the notebook
-6. Run the [gui.py]
+6. Run the [gui.py] https://github.com/Gaganesh61092/Visualization-activation-maps/blob/main/gui.py
 7. Upload the Image that you want to detect
 8. Click on Detect button
 9. View the Results
